@@ -1,0 +1,39 @@
+.navbar {
+  background-color: #2c0e3a;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding: 10px;
+  color: #ffffff;
+}
+.logo {
+  height: 100px;
+  width: 200px;
+}
+.score-timer {
+  display: flex;
+  list-style-type: none;
+}
+.score {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.timer {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  align-items: center;
+}
+.timer-img {
+  height: 30px;
+  width: 30px;
+}
+.yellow {
+  color: #fec653;
+  font-size: 25px;
+  font-weight: 500;
+}

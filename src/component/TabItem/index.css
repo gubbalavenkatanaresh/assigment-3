@@ -1,0 +1,14 @@
+.tab-button {
+  margin-left: 10px;
+  background-color: transparent;
+  font-size: 20px;
+  border: none;
+  color: #ffffff;
+}
+.active {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: #fec653 4px solid;
+  color: #fec653;
+}
